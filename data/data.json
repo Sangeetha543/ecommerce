@@ -1,0 +1,30 @@
+
+{
+	"mobiles":[
+		{
+			"name": "Honor",
+			"image":"/img/1.jpg",
+			"oprice":13000,
+			"price":13500
+	   },{
+		
+			"name": "Samsung",
+			"image":"img/2.jpg",
+			"oprice":14000,
+			"price":15000
+	   },{
+			"name": "Apple",
+			"image":"img/3.jpg",
+			"oprice":30000,
+			"price":30000
+	   },{
+	   	
+			"name": "Micromax",
+			"image":"img/4.jpg",
+			"oprice":8000,
+			"price":10000
+	   }]
+
+	
+	
+}
